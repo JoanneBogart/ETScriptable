@@ -35,4 +35,5 @@ for manId in manIds:
     status = connection.runTraveler(hid, 'ASPIC_data_ingest', 'active',
                                     'ASPIC')
 
+print "all done"
 
